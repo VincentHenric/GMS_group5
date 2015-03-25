@@ -1,0 +1,51 @@
+TO FIND OUT WHAT IS OUR NAME
+We dont need to choose a name that must realted to our product I guess.
+But I think it would be better to have one related to IoT.
+And ofcourse Global Manufacturing Strategy.  
+Thats why I checked some text about these topics and try to get some key words 
+for helping us to find name. I can list key words that I choose like this: 
+
+Internet - Things
+Intelligence
+Smart
+Smart Planet (asmarterplanet.com IBM )
+embedded electronics
+connectivity
+Autonomus
+Data 
+Information 
+Knowledge
+global
+golobal data
+strategy
+high-tech
+info-tech
+
+We may create a name with these words I think by adding, combining and so on. 
+
+As a story:
+Today computers -- and, therefore, the Internet -- are almost wholly dependent on 
+human beings for information. Nearly all of the roughly 50 petabytes 
+(a petabyte is 1,024 terabytes) of data available on the Internet were 
+first captured and created by human beings by typing, pressing a record button,
+ taking a digital picture or scanning a bar code. 
+
+The problem is, people have limited time, attention and accuracy -- 
+all of which means they are not very good at capturing data about things 
+in the real world. If we had computers that knew everything there was to know about 
+things -- using data they gathered without any help from us -- 
+we would be able to track and count everything and greatly reduce waste, 
+loss and cost. We would know when things needed replacing, 
+repairing or recalling and whether they were fresh or past their best.”
+
+"According to Steve Leibson, who identifies himself as 
+“occasional docent at the Computer History Museum,” 
+the address space expansion means that we could 
+“assign an IPV6 address to every atom on the surface of the earth, 
+and still have enough addresses left to do another 100+ earths.”
+
+
+
+Links are below:
+http://whatis.techtarget.com/definition/Internet-of-Things
+from: http://www.theinternetofthings.eu/
