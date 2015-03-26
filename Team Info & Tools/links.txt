@@ -15,3 +15,4 @@ http://www.wikihow.com/Write-an-Industry-Analysis-Report
 // About Markdown & Atom
 https://confluence.atlassian.com/display/STASH/Markdown+syntax+guide
 http://openclassrooms.com/courses/redigez-en-markdown
+http://sourceforge.net/p/pdfxtk/wiki/markdown_syntax/
