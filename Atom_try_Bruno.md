@@ -57,3 +57,13 @@ Oh and here is a picture
 Let's try to see what happens if we put some code in the middle of a sentence:
 
 You can always start with updating your Git file on your PC, with the command `$ git pull `, this brings everything non up to date to your PC.
+
+Other try (more beautiful stuff)
+
+---------------------------------------------------------------
+*   Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+    Aliquam hendrerit mi posuere lectus. Vestibulum enim wisi,
+    viverra nec, fringilla in, laoreet vitae, risus.
+*   Donec sit amet nisl. Aliquam semper ipsum sit amet velit.
+    Suspendisse id sem consectetuer libero luctus adipiscing.
+----------------------------------------------------------------
