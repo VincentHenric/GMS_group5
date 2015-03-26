@@ -17,3 +17,5 @@ https://confluence.atlassian.com/display/STASH/Markdown+syntax+guide
 http://openclassrooms.com/courses/redigez-en-markdown
 http://sourceforge.net/p/pdfxtk/wiki/markdown_syntax/
 http://daringfireball.net/projects/markdown/syntax#list
+http://daringfireball.net/projects/markdown/syntax    (official guide for Markdown)
+https://michelf.ca/projets/php-markdown/syntaxe/    (translation in French)
