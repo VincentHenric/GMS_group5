@@ -11,3 +11,6 @@ in the context of global manufacturong strategies ?
 // About idustry analysis report: interesting links
 
 http://www.wikihow.com/Write-an-Industry-Analysis-Report
+
+// About Markdown & Atom
+https://confluence.atlassian.com/display/STASH/Markdown+syntax+guide
