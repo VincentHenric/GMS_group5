@@ -1,6 +1,6 @@
 # LET'S HAVE A TRY AT ATOM
 
-#####The point of this document is to try atom, and get used to it.
+###The point of this document is to try atom, and get used to it.
 
 Let's try atom. Why? Because:
   * It's new
@@ -32,17 +32,24 @@ Let's have a try at the code blocks, in the example of GitHub:
     $ git commit -m "i just added a new file"
     $ git push
 
+Let's try to confirm it:
+
+      j'ecris du caca
+      encore du caca
+
+
 Another method:
 
-'''
+```
+
 $ git pull
 $ git add "this is a new file"
 $ git status
 $ git commit -m "i just added a new file"
 $ git push
-'''
+```
 
-Let's try to put a link to [I don't know what this is for](github.com/ "title?")
+Let's try to put a link to [GitHub](https://github.com/ "title?")
 
 Oh and here is a picture
-![Me](D:\Images\Photos\Photos Bruno\Voyages\Chine\2014\Iphone\Photos\IMG_0879.JPG)
+![Me](D:\Images\Photos\Photos Bruno\Voyages\Chine\2014\Iphone\Photos\IMG_0879.JPG "Hester when she was a boy :)")
