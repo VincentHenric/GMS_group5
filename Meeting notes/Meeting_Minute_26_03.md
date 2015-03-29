@@ -78,7 +78,7 @@ Meeting Minutes
     <tr>
         <td>**0**</td>
         <td>**0**</td>
-        <td>**0**</td>
+        <td>**Hester**</td>
         <td>**Bruno**</td>
         <td>**Vincent**</td>
     </tr>
