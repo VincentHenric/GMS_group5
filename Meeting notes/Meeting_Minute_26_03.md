@@ -81,5 +81,6 @@ Meeting Minutes
         <td>**Hester**</td>
         <td>**Bruno**</td>
         <td>**Vincent**</td>
+	<td>**Emre**</td>
     </tr>
 </table>
