@@ -8,3 +8,5 @@
   2. many papers to have more advanced points on charging stations :
     - [regulatory framework and supply chain](http://www.sciencedirect.com/science/article/pii/S0301421511005696)
     - [the economics of fast charging infrastructure](http://ac.els-cdn.com/S0301421511010470/1-s2.0-S0301421511010470-main.pdf?_tid=8bd248d8-d6c3-11e4-8b90-00000aacb360&acdnat=1427709788_9d1e7e23f0fdc9e141548ec66fed77df)
+  3. Chinese issues. See pdf Zhang Nuobei
+  4. fast charging vs slow charging, impact of different kind of stations to the grid
