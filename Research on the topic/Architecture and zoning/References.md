@@ -10,3 +10,7 @@
     - [the economics of fast charging infrastructure](http://ac.els-cdn.com/S0301421511010470/1-s2.0-S0301421511010470-main.pdf?_tid=8bd248d8-d6c3-11e4-8b90-00000aacb360&acdnat=1427709788_9d1e7e23f0fdc9e141548ec66fed77df)
   3. Chinese issues. See pdf Zhang Nuobei
   4. fast charging vs slow charging, impact of different kind of stations to the grid
+  5. business model failure of charging station
+    [article]("http://www.plugincars.com/better-place-hawaii-failure-proves-business-models-must-change-127870.html")
+  6. good point about business model and zoning
+    [link]("http://www.greencarreports.com/news/1087832_how-to-site-electric-car-charging-stations-its-the-parking-stupid")
