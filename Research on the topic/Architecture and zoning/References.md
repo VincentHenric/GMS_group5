@@ -11,6 +11,6 @@
   3. Chinese issues. See pdf Zhang Nuobei
   4. fast charging vs slow charging, impact of different kind of stations to the grid
   5. business model failure of charging station
-    [article]("http://www.plugincars.com/better-place-hawaii-failure-proves-business-models-must-change-127870.html")
+    [article](http://www.plugincars.com/better-place-hawaii-failure-proves-business-models-must-change-127870.html)
   6. good point about business model and zoning
-    [link]("http://www.greencarreports.com/news/1087832_how-to-site-electric-car-charging-stations-its-the-parking-stupid")
+    [link](http://www.greencarreports.com/news/1087832_how-to-site-electric-car-charging-stations-its-the-parking-stupid)
