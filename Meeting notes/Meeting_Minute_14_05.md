@@ -80,7 +80,7 @@ Meeting Minutes
 
 <table>
     <tr>
-        <td>**0**</td>
+        <td>Bruno</td>
         <td>**0**</td>
         <td>**0**</td>
         <td>**0**</td>

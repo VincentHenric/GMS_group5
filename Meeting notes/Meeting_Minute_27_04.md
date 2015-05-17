@@ -26,7 +26,7 @@ Meeting Minutes
   * discussion about everyone's difficulty and progress (for example, CHAdeMO is not a company but an association; we agree to continue the investigation with the perspective of their impact in the regulation)
   * planning of assignments and next meeting: next meeting is for Monday in two weeks
   * departure of everyone
-  
+
 
 **COMMITMENTS**
 
@@ -47,7 +47,7 @@ Meeting Minutes
 
 <table>
     <tr>
-        <td>**0**</td>
+        <td>Bruno</td>
         <td>**0**</td>
         <td>**0**</td>
         <td>**0**</td>
