@@ -524,7 +524,7 @@ distribution of the work * prepare the logic model for the next presentation
   <p class=MsoNormal><span lang=EN-US style='mso-fareast-font-family:"Times New Roman"'>Bruno<o:p></o:p></span></p>
   </td>
   <td style='padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><span lang=EN-US style='mso-fareast-font-family:"Times New Roman"'>**0**<o:p></o:p></span></p>
+  <p class=MsoNormal><span lang=EN-US style='mso-fareast-font-family:"Times New Roman"'>Hester<o:p></o:p></span></p>
   </td>
   <td style='padding:.75pt .75pt .75pt .75pt'>
   <p class=MsoNormal><span lang=EN-US style='mso-fareast-font-family:"Times New Roman"'>**0**<o:p></o:p></span></p>
