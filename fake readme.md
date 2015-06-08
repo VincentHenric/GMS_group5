@@ -32,4 +32,4 @@ See below the presentation video of the "EV charging station market" project:
 
 
 
-<center>![Me](https://github.com/VincentHenric/GMS_group5/blob/master/Final%20report/Layout/Pics/2012-Tesla-Model-S-passasjersiden-front-tre-kvart.jpg?raw=true)
+<center>![Me](https://github.com/VincentHenric/GMS_group5/blob/master/X.%20Final%20report/Layout/InDesign%20file/Pictures/team.jpg?raw=true)
