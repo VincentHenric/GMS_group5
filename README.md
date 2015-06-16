@@ -18,10 +18,9 @@ See below the logic model and the table of content of the "EV charging station m
 
 
 
-Charging Stations IAR REFERENCE
+CHARGING STATIONS IAR REFERENCE
 =========================
-
-##Current Situation
+##CURRENT SITUATION
 
 ###KEY FIGURES
 
