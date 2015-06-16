@@ -1,7 +1,5 @@
 GMS_group5
 ============================
-###### This is our main repository
-
 
 
 <center> ![Me](https://github.com/VincentHenric/GMS_group5/blob/master/X.%20Final%20report/Pics/Logo2.png?raw=true)
